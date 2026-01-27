@@ -1,0 +1,165 @@
+alpha_2;alpha_3;area;capital;continente;moneda;nombre;poblacion
+AD;AND;468.0;Andorra la Vella;EU;EUR;Andorra;84000
+AE;ARE;82880.0;Abu Dhabi;AS;AED;United Arab Emirates;4975593
+AF;AFG;647500.0;Kabul;AS;AFN;Afghanistan;29121286
+AG;ATG;443.0;St. John's;;XCD;Antigua and Barbuda;86754
+AI;AIA;102.0;The Valley;;XCD;Anguilla;13254
+AL;ALB;28748.0;Tirana;EU;ALL;Albania;2837000
+AM;ARM;29743.0;Yerevan;AS;AMD;Armenia;2968000
+AO;AGO;1246700.0;Luanda;AF;AOA;Angola;32866000
+AQ;ATA;14000000.0;;AN;;Antarctica;0
+AR;ARG;2780400.0;Buenos Aires;SA;ARS;Argentina;45196000
+AS;ASM;199.0;Pago Pago;;USD;American Samoa;55197
+AT;AUT;83871.0;Vienna;EU;EUR;Austria;8917200
+AU;AUS;7692024.0;Canberra;OC;AUD;Australia;25687000
+AW;ABW;180.0;Oranjestad;;AWG;Aruba;106766
+AX;ALA;1580.0;Mariehamn;;EUR;Åland Islands;30000
+AZ;AZE;86600.0;Baku;AS;AZN;Azerbaijan;10139000
+BA;BIH;51209.0;Sarajevo;EU;BAM;Bosnia and Herzegovina;3280000
+BB;BRB;430.0;Bridgetown;;BBD;Barbados;287000
+BD;BGD;147570.0;Dhaka;AS;BDT;Bangladesh;164689000
+BE;BEL;30528.0;Brussels;EU;EUR;Belgium;11539000
+BF;BFA;274200.0;Ouagadougou;AF;XOF;Burkina Faso;20903000
+BG;BGR;110994.0;Sofia;EU;BGN;Bulgaria;7000000
+BH;BHR;765.0;Manama;AS;BHD;Bahrain;1700000
+BI;BDI;27830.0;Bujumbura;AF;BIF;Burundi;11891000
+BJ;BEN;112622.0;Porto-Novo;AF;XOF;Benin;12123000
+BL;BLM;21.0;Gustavia;;EUR;Saint Barthélemy;9847
+BM;BMU;54.0;Hamilton;;BMD;Bermuda;62273
+BN;BRN;5765.0;Bandar Seri Begawan;AS;BND;Brunei;437000
+BO;BOL;1098581.0;Sucre;SA;BOB;Bolivia;11673000
+BQ;BES;328.0;Kralendijk;;USD;Bonaire;18012
+BR;BRA;8515767.0;Brasilia;SA;BRL;Brazil;212559000
+BS;BHS;13943.0;Nassau;;BSD;Bahamas;393000
+BT;BTN;38394.0;Thimphu;AS;BTN;Bhutan;771000
+BV;BVT;49.0;;AN;NOK;Bouvet Island;0
+BW;BWA;581730.0;Gaborone;AF;BWP;Botswana;2350000
+BY;BLR;207600.0;Minsk;EU;BYN;Belarus;9449000
+BZ;BLZ;22966.0;Belmopan;;BZD;Belize;397000
+CA;CAN;9984670.0;Ottawa;NA;CAD;Canada;37742000
+CC;CCK;14.0;West Island;;AUD;Cocos Islands;596
+CD;COD;2344858.0;Kinshasa;AF;CDF;Democratic Republic of the Congo;101780000
+CF;CAF;622984.0;Bangui;AF;XAF;Central African Republic;4820000
+CG;COG;342000.0;Brazzaville;AF;XAF;Republic of the Congo;5518000
+CH;CHE;41284.0;Bern;EU;CHF;Switzerland;8654600
+CI;CIV;322463.0;Yamoussoukro;AF;XOF;Côte d'Ivoire;26378000
+CK;COK;236.0;Avarua;;NZD;Cook Islands;17500
+CL;CHL;756102.0;Santiago;SA;CLP;Chile;19116000
+CM;CMR;475442.0;Yaoundé;AF;XAF;Cameroon;26545000
+CN;CHN;9596961.0;Beijing;AS;CNY;China;1402112000
+CO;COL;1141748.0;Bogotá;SA;COP;Colombia;50882000
+CR;CRI;51100.0;San José;;CRC;Costa Rica;5094000
+CU;CUB;109884.0;Havana;;CUP;Cuba;11326000
+CV;CPV;4033.0;Praia;AF;CVE;Cabo Verde;555000
+CW;CUW;444.0;Willemstad;;ANG;Curaçao;155000
+CX;CXR;135.0;Flying Fish Cove;;AUD;Christmas Island;1843
+CY;CYP;9251.0;Nicosia;EU;EUR;Cyprus;1207000
+CZ;CZE;78865.0;Prague;EU;CZK;Czech Republic;10709000
+DE;DEU;357022.0;Berlin;EU;EUR;Germany;83240000
+DJ;DJI;23200.0;Djibouti;AF;DJF;Djibouti;988000
+DK;DNK;43094.0;Copenhagen;EU;DKK;Denmark;5792000
+DM;DMA;751.0;Roseau;;XCD;Dominica;71986
+DO;DOM;48671.0;Santo Domingo;;DOP;Dominican Republic;10848000
+DZ;DZA;2381741.0;Algiers;AF;DZD;Algeria;43851000
+EC;ECU;256369.0;Quito;SA;USD;Ecuador;17643000
+EE;EST;45227.0;Tallinn;EU;EUR;Estonia;1325000
+EG;EGY;1002450.0;Cairo;AF;EGP;Egypt;102330000
+EH;ESH;266000.0;El Aaiún;;MAD;Western Sahara;582000
+ER;ERI;117600.0;Asmara;AF;ERN;Eritrea;3546000
+ES;ESP;505992.0;Madrid;EU;EUR;Spain;47350000
+ET;ETH;1104300.0;Addis Ababa;AF;ETB;Ethiopia;114963000
+FI;FIN;338424.0;Helsinki;EU;EUR;Finland;5541000
+FJ;FJI;18272.0;Suva;;FJD;Fiji;896000
+FK;FLK;12173.0;Stanley;;FKP;Falkland Islands;3398
+FM;FSM;702.0;Palikir;;USD;Micronesia;115000
+FO;FRO;1399.0;Tórshavn;;DKK;Faroe Islands;48863
+FR;FRA;551695.0;Paris;EU;EUR;France;65273000
+GA;GAB;267668.0;Libreville;AF;XAF;Gabon;2225000
+GB;GBR;242900.0;London;EU;GBP;United Kingdom;67220000
+GD;GRD;344.0;St. George's;;XCD;Grenada;112000
+GE;GEO;69700.0;Tbilisi;AS;GEL;Georgia;3989000
+GF;GUF;83534.0;Cayenne;;EUR;French Guiana;298000
+GG;GGY;78.0;St. Peter Port;;GBP;Guernsey;63000
+GH;GHA;238533.0;Accra;AF;GHS;Ghana;31073000
+GI;GIB;6.5;Gibraltar;;GIP;Gibraltar;33691
+GL;GRL;2166086.0;Nuuk;;DKK;Greenland;56700
+GM;GMB;10689.0;Banjul;AF;GMD;Gambia;2417000
+GN;GIN;245857.0;Conakry;AF;GNF;Guinea;13130000
+GP;GLP;1628.0;Basse-Terre;;EUR;Guadeloupe;400000
+GQ;GNQ;28051.0;Malabo;AF;XAF;Equatorial Guinea;1409000
+GR;GRC;131957.0;Athens;EU;EUR;Greece;10423000
+GS;SGS;3903.0;Grytviken;;GBP;South Georgia and the South Sandwich Islands;30
+GT;GTM;108889.0;Guatemala City;;GTQ;Guatemala;17915000
+GU;GUM;549.0;Hagåtña;;USD;Guam;168000
+GW;GNB;36125.0;Bissau;AF;XOF;Guinea-Bissau;1968000
+GY;GUY;214969.0;Georgetown;;GYD;Guyana;786000
+HK;HKG;1104.0;Hong Kong;;HKD;Hong Kong;7496000
+HM;HMD;412.0;;AN;;Heard Island and McDonald Islands;0
+HN;HND;112492.0;Tegucigalpa;;HNL;Honduras;9746000
+HR;HRV;56594.0;Zagreb;EU;HRK;Croatia;4105000
+HT;HTI;27750.0;Port-au-Prince;;HTG;Haiti;11402000
+HU;HUN;93030.0;Budapest;EU;HUF;Hungary;9660000
+ID;IDN;1904569.0;Jakarta;AS;IDR;Indonesia;273523000
+IE;IRL;70273.0;Dublin;EU;EUR;Ireland;4977000
+IL;ISR;20770.0;Jerusalem;AS;ILS;Israel;9217000
+IM;IMN;572.0;Douglas;;GBP;Isle of Man;85000
+IN;IND;3287263.0;New Delhi;AS;INR;India;1380000000
+IO;IOT;60.0;Diego Garcia;;USD;British Indian Ocean Territory;3000
+IQ;IRQ;438317.0;Baghdad;AS;IQD;Iraq;40222000
+IR;IRN;1648195.0;Tehran;AS;IRR;Iran;83990000
+IS;ISL;103000.0;Reykjavik;EU;ISK;Iceland;366000
+IT;ITA;301340.0;Rome;EU;EUR;Italy;60360000
+JE;JEY;116.0;Saint Helier;;GBP;Jersey;100000
+JM;JAM;10991.0;Kingston;;JMD;Jamaica;2961000
+JO;JOR;89342.0;Amman;AS;JOD;Jordan;10203000
+JP;JPN;377973.0;Tokyo;AS;JPY;Japan;126476000
+KE;KEN;580367.0;Nairobi;AF;KES;Kenya;53771000
+KG;KGZ;199951.0;Bishkek;AS;KGS;Kyrgyzstan;6524000
+KH;KHM;181035.0;Phnom Penh;AS;KHR;Cambodia;16719000
+KI;KIR;811.0;South Tarawa;;AUD;Kiribati;119000
+KM;COM;1862.0;Moroni;AF;KMF;Comoros;869000
+KN;KNA;261.0;Basseterre;;XCD;Saint Kitts and Nevis;53000
+KP;PRK;120538.0;Pyongyang;AS;KPW;North Korea;25780000
+KR;KOR;100210.0;Seoul;AS;KRW;South Korea;51780000
+KW;KWT;17818.0;Kuwait City;AS;KWD;Kuwait;4270000
+KY;CYM;264.0;George Town;;KYD;Cayman Islands;65700
+KZ;KAZ;2724900.0;Nur-Sultan;AS;KZT;Kazakhstan;18780000
+LA;LAO;236800.0;Vientiane;AS;LAK;Laos;7275000
+LB;LBN;10452.0;Beirut;AS;LBP;Lebanon;6825000
+LC;LCA;616.0;Castries;;XCD;Saint Lucia;183000
+LI;LIE;160.0;Vaduz;EU;CHF;Liechtenstein;38000
+LK;LKA;65610.0;Colombo;AS;LKR;Sri Lanka;21413000
+LR;LBR;111369.0;Monrovia;AF;LRD;Liberia;5058000
+LS;LSO;30355.0;Maseru;AF;LSL;Lesotho;2142000
+LT;LTU;65300.0;Vilnius;EU;EUR;Lithuania;2722000
+LU;LUX;2586.0;Luxembourg;EU;EUR;Luxembourg;625000
+LV;LVA;64559.0;Riga;EU;EUR;Latvia;1886000
+LY;LBY;1759540.0;Tripoli;AF;LYD;Libya;6871000
+MA;MAR;446550.0;Rabat;AF;MAD;Morocco;36910000
+MC;MCO;2.02;Monaco;EU;EUR;Monaco;39000
+MD;MDA;33846.0;Chisinau;EU;MDL;Moldova;4033000
+ME;MNE;13812.0;Podgorica;EU;EUR;Montenegro;628000
+MF;MAF;53.0;Marigot;;EUR;Saint Martin;38600
+MG;MDG;587041.0;Antananarivo;AF;MGA;Madagascar;27691000
+MH;MHL;181.0;Majuro;;USD;Marshall Islands;59000
+MK;MKD;25713.0;Skopje;EU;MKD;North Macedonia;2083000
+ML;MLI;1240192.0;Bamako;AF;XOF;Mali;20250000
+MM;MMR;676578.0;Naypyidaw;AS;MMK;Myanmar;54410000
+MN;MNG;1564116.0;Ulaanbaatar;AS;MNT;Mongolia;3278000
+MO;MAC;30.3;Macao;;MOP;Macao;649000
+MP;MNP;464.0;Saipan;;USD;Northern Mariana Islands;57000
+MQ;MTQ;1128.0;Fort-de-France;;EUR;Martinique;375000
+MR;MRT;1030700.0;Nouakchott;AF;MRU;Mauritania;4649000
+MS;MSR;102.0;Plymouth;;XCD;Montserrat;5000
+MT;MLT;316.0;Valletta;EU;EUR;Malta;514000
+MU;MUS;2040.0;Port Louis;AF;MUR;Mauritius;1272000
+MV;MDV;298.0;Malé;AS;MVR;Maldives;540000
+MW;MWI;118484.0;Lilongwe;AF;MWK;Malawi;19130000
+MX;MEX;1964375.0;Mexico City;NA;MXN;Mexico;128932000
+MY;MYS;330803.0;Kuala Lumpur;AS;MYR;Malaysia;32366000
+MZ;MOZ;801590.0;Maputo;AF;MZN;Mozambique;31255000
+NA;NAM;825615.0;Windhoek;AF;NAD;Namibia;2540000
+NC;NCL;18575.0;Nouméa;;XPF;New Caledonia;285000
+NE;NER;1267000.0;Niamey;AF;XOF;Niger;24206000
+NF;NFK;36.0;Kingston;;AUD;Norfolk Island;1748
+NG;NGA;923768.0;Abuja;AF;NGN
